@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <appSettings>
+       <add key="ClientId" value=""/>
+       <add key="ClientSecret" value=""/>
+       <add key="ApiUrl" value="" />
+       <add key="DefaultBatchName" value="" />
+       <add key="DatabaseFileName" value="" />
+       <add key="ShowHiddenBatchFiles" value="false" />
+       <add key="RowSplitLimit" value="10" />
+       <add key="FundMapping" value="" />
+   </appSettings>
+</configuration>
