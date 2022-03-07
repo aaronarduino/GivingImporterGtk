@@ -41,4 +41,4 @@ The application is in a working state. However, I think there can be improvement
 
 ## Known Issues
 - Can not automatically resolve Donor name mismatches.
-- When running in debug, mode buttons do not work the first time.
+- When running in debug mode buttons do not work the first time (I think this is due to how Mono and debugging works).
