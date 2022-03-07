@@ -1,5 +1,7 @@
 # GivingImporterGtk
 
+<img src="https://raw.githubusercontent.com/aaronarduino/GivingImporterGtk/master/UIScreenShot.png" width="800" />
+
 ## Description
 **GivingImporterGtk** is a utility application to import Servant Keeper export files into Planning Center Giving.
 
